@@ -20,6 +20,7 @@
     "gatsby-plugin-manifest": "^5.13.1",
     "gatsby-plugin-postcss": "^6.13.1",
     "gatsby-plugin-sitemap": "^6.13.1",
+    "my_expense": "file:",
     "postcss": "^8.4.47",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
